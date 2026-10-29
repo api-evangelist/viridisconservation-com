@@ -64,5 +64,124 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-viridisconservation-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://viridisconservation.com/
+Viridis Ecological OS provides an ecological operating system for business, industry and conservation, enabling users to frame decisions, compare supported options and costs, review evidence, and track follow-up. It supports ecological and economic decision-making through a comprehensive platform.
+
+**Areas:** Conservation · Environment · Data · API · SaaS
+
+## viridisconservation-com on APIs.io
+
+Everything profiled for viridisconservation-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/viridisconservation-com/](https://apis.io/providers/viridisconservation-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (12)
+
+- [viridisconservation-com Adoption API](https://apis.io/apis/viridisconservation-com/viridisconservation-com-adoption-api/) — The adoption API from viridisconservation-com — 2 operation(s) for adoption.
+- [viridisconservation-com Agents API](https://apis.io/apis/viridisconservation-com/viridisconservation-com-agents-api/) — The agents API from viridisconservation-com — 1 operation(s) for agents.
+- [viridisconservation-com Climate API](https://apis.io/apis/viridisconservation-com/viridisconservation-com-climate-api/) — The climate API from viridisconservation-com — 1 operation(s) for climate.
+- [viridisconservation-com Climate Compliance API](https://apis.io/apis/viridisconservation-com/viridisconservation-com-climate-compliance-api/) — The climate-compliance API from viridisconservation-com — 1 operation(s) for climate-compliance.
+- [viridisconservation-com Conservation API](https://apis.io/apis/viridisconservation-com/viridisconservation-com-conservation-api/) — The conservation API from viridisconservation-com — 1 operation(s) for conservation.
+- [viridisconservation-com Construction API](https://apis.io/apis/viridisconservation-com/viridisconservation-com-construction-api/) — The construction API from viridisconservation-com — 1 operation(s) for construction.
+- [viridisconservation-com Csrd API](https://apis.io/apis/viridisconservation-com/viridisconservation-com-csrd-api/) — The csrd API from viridisconservation-com — 1 operation(s) for csrd.
+- [viridisconservation-com Ghg API](https://apis.io/apis/viridisconservation-com/viridisconservation-com-ghg-api/) — The ghg API from viridisconservation-com — 1 operation(s) for ghg.
+- [viridisconservation-com Routing API](https://apis.io/apis/viridisconservation-com/viridisconservation-com-routing-api/) — The routing API from viridisconservation-com — 1 operation(s) for routing.
+- [viridisconservation-com Security API](https://apis.io/apis/viridisconservation-com/viridisconservation-com-security-api/) — The security API from viridisconservation-com — 4 operation(s) for security.
+- [viridisconservation-com Security Preflight API](https://apis.io/apis/viridisconservation-com/viridisconservation-com-security-preflight-api/) — The Security Preflight API from viridisconservation-com — 2 operation(s) for security preflight.
+- [viridisconservation-com Tax Credit API](https://apis.io/apis/viridisconservation-com/viridisconservation-com-tax-credit-api/) — The tax-credit API from viridisconservation-com — 1 operation(s) for tax-credit.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Viridisconservation Com Agentic Access](https://apis.io/agentic-access/viridisconservation-com/viridisconservation-com-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [viridisconservation-com API Rules](https://apis.io/rules/viridisconservation-com/viridisconservation-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Viridisconservation Com Authentication](https://apis.io/security/viridisconservation-com/viridisconservation-com-authentication/)
+- [Viridisconservation Com Domain Security](https://apis.io/security/viridisconservation-com/viridisconservation-com-domain-security/)
+- [Viridisconservation Com Trust Center](https://apis.io/security/viridisconservation-com/viridisconservation-com-trust-center/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Viridisconservation Com Plans Pricing](https://apis.io/plans/viridisconservation-com/viridisconservation-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://viridisconservation.com/)
+- [Documentation](https://viridisconservation.com/developers)
+- [API reference](https://viridisconservation.com/developers)
+- [Pricing](https://viridisconservation.com/project-pricing)
+- [Security](https://viridisconservation.com/security)
+- [Compliance](https://viridisconservation.com/security)
+- [Terms of service](https://viridisconservation.com/terms)
+- [Privacy policy](https://viridisconservation.com/privacy)
+- [GitHub](https://github.com/viridisconservation)
+
+## API Evangelist rating
+
+**Kin Score 58.9** — strong · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 48.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 44.5 |
+| Access clarity | 88.9 |
+
+**Agent readiness 47.4** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | verified |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 29.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/viridisconservation-com/](https://apis.io/providers/viridisconservation-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for viridisconservation-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/viridisconservation-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
